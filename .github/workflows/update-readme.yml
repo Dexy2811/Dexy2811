@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 */5 * *'  # Runs every day at midnight
+    - cron: '0 0 * * *'  # Runs every day at midnight
   push:
     branches:
       - main  # Runs on commits to the main branch
@@ -12,7 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
       - name: Fetch Programming Languages
-        uses: some-user/fetch-languages-action@v1  # Hypothetical action to fetch languages
+        run: python fetch_languages.py
       - name: Update README
         run: python update_readme.py
