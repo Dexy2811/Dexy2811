@@ -1,8 +1,9 @@
 import re
 
 def read_current_languages():
-    # Logic to read language data, e.g., from a JSON file or API
-    return ['Python', 'JavaScript', 'Java']
+    with open('languages.txt', 'r') as file:
+        return file.read().splitlines()
+
 
 def generate_markdown(languages):
     markdown = ""
