@@ -4,7 +4,7 @@
   - Linux
   - Azure
 - 📫 How to reach me:
-  - Twitter/X [https://twitter.com/dexy2811](@Dexy2811)
+  - Twitter/X (https://twitter.com/dexy2811)[@Dexy2811]
   - Email: Helpdextron@gmail.com
 
 <!--
