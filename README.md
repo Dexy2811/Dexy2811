@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hello! Welcome to my profile 😊
 
 - 🌱 I’m currently learning about:
   - Linux
   - Azure
+  - Automation
+  - Docker/containers
 - 📫 How to reach me:
-  - Twitter/X @Dexy2811
-  - Email: Helpdextron@gmail.com
+  - Twitter/X [@Dexy2811](https://twitter.com/dexy2811)
+  - Email: [Helpdextron@gmail.com](mailto:helpdextron@gmail.com)
 
 <!--
 **Dexy2811/Dexy2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
