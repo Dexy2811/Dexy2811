@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about:
+  - Linux
+  - Azure
+- 📫 How to reach me:
+  - Twitter/X [https://twitter.com/dexy2811]@Dexy2811
+  - Email: Helpdextron@gmail.com
+
 <!--
 **Dexy2811/Dexy2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
