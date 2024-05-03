@@ -5,6 +5,7 @@
   - Azure
   - Automation
   - Docker/containers
+  - Infrastruture as Code
 - 📫 How to reach me:
   - Twitter/X [@Dexy2811](https://twitter.com/dexy2811)
   - Email: [Helpdextron@gmail.com](mailto:helpdextron@gmail.com)
