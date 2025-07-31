@@ -1,12 +1,11 @@
 ### Hello! Welcome to my profile 😊
 
 - 🌱 I’m currently learning about:
-  - Linux
-  - Azure
+  - Homelabbing
   - Automation
   - Docker/containers
   - Infrastruture as Code
-
+  - Development
 <!--
 **Dexy2811/Dexy2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
